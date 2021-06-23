@@ -1,6 +1,5 @@
-User Authentication:
-  Features:
-      Login.
-      SignUp
-      Reset Password.
-      Udate profile.
+User Authentication:      Login,
+      SignUp,
+      Reset Password,
+      Udate Email,
+      Update Password.
